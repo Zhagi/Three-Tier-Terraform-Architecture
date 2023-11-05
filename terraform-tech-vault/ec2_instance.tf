@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_instance" "dev_instance" {
-  ami           = "ami-05e4ed86eaaac596f" # Replace with the latest Amazon Linux 2 AMI ID in your region
+  ami           = "ami-05e4ed86eaaac596f" 
   instance_type = "t2.micro"
 
   tags = {

@@ -1,13 +1,10 @@
 provider "aws" {
-  region = "eu-west-2" # Choose the region that is best for you
+  region = "eu-west-2" 
 }
 
 resource "aws_s3_bucket" "tf_test_bucket" {
-  bucket = "tf-test-bucket-zubayda" # Replace with your actual name or unique identifier
+  bucket = "tf-test-bucket-zubayda" 
 }
-
-  # You can define other settings such as versioning in a separate resource block
-  # due to deprecation.
 
 # resource "aws_s3_bucket_acl" "tf_test_bucket_acl" {
 #   bucket = aws_s3_bucket.tf_test_bucket.id
