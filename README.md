@@ -16,10 +16,10 @@ Setting up a VPC with a subnet and internet gateway.
 
 Launch and manage an EC2 instance tagged for a development environment.
 
+---
 
 Three-Tier-Terraform-Architecture Diagram
 
----
 
 ![Diagram](https://github.com/Zhagi/Three-Tier-Terraform-Architecture/blob/main/3%20Tier%20Terraform%20Architecture%20Diagram.png?raw=true)
 
