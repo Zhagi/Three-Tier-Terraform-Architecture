@@ -29,3 +29,7 @@ Three-Tier-Terraform-Architecture Diagram
 
 ![Diagram](https://github.com/Zhagi/Three-Tier-Terraform-Architecture/blob/main/images/3%20Tier%20Terraform%20Architecture%20Diagram.png?raw=true)
 
+
+## Acknowledgements
+- You can explore this project along with others at [moabukar/tech-vault](https://github.com/moabukar/tech-vault).
+- Special thanks to [moabukar](https://github.com/moabukar) for presenting numerous challenges and providing valuable resources that contribute significantly to the development of DevOps professionals.
